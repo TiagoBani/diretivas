@@ -27,7 +27,7 @@ export class HighlightMouseDirective {
    * Caso não precise de manipulação
    */
   // tslint:disable-next-line:member-ordering
-  //@HostBinding('style.backgroundColor') backgroundColor: String;
+  // @HostBinding('style.backgroundColor') backgroundColor: String;
 
   /**
    * Caso precise de manipulação
